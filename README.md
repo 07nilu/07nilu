@@ -1,5 +1,5 @@
 <h1 align="center">Hi!👋 I'm Nilesh Patel</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Frontend Developer from India</h3>
 
 <img align="right" alt="coding" width="290px" height="230"  src="https://raj-rathod.github.io/rajesh-rathore/assets/images/developer.gif?hl=en_IN"> 
 
