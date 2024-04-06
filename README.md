@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nilesh Patel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://raj-rathod.github.io/rajesh-rathore/assets/images/developer.gif?hl=en_IN"> 
+<img align="right" alt="coding" width="290px" height="230"  src="https://raj-rathod.github.io/rajesh-rathore/assets/images/developer.gif?hl=en_IN"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=07nilu&label=Profile%20views&color=0e75b6&style=flat" alt="07nilu" /> </p>
 
