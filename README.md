@@ -1,4 +1,4 @@
-![logo](https://github.com/07nilu/07nilu/blob/main/Linkedin%20Banner%20Img.png)
+![logo](https://github.com/07nilu/07nilu/blob/main/Linkedin%20Banner%20Img 1.jpg)
 <h1 align="center">Hi!👋 I'm Nilesh Patel</h1>
 <h3 align="center">A passionate Front-End Developer! from India</h3>
 
